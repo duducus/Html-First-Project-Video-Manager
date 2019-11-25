@@ -28,6 +28,8 @@
     right: 50px;
 }
 
-search-bar.{
-    position:;
+.search-bar{
+    length: 750px;
+    position: fixed;
+    left: 700px ;
 }
