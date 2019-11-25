@@ -1,23 +1,33 @@
-
-#search-bar{
-    padding: 2px 6px;
-}
-
 #logo{
     width: 75px;
+    length: 150px; 
+    
+}
+
+
+#logo1{
+    width: 75px;
     length: 150px;
-    float: right;
+    position: fixed;
+    right: 200px;
 }
 
 #logo2{
     width: 100px;
     length: 200px;
-    float: left;
+    position: fixed;
+    right: 100px;
+    
 }
 
 
 #logo3{
     width: 50px;
     length: 50px;
-    float: left;
+    position: fixed;
+    right: 50px;
+}
+
+search-bar.{
+    position:;
 }
