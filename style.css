@@ -2,7 +2,8 @@
     padding: 2px 6px;
 }
 
-#logo{
-    width: 15px;
-    length: 30px;
+#gear{
+    width: 50px;
+    length: 50px;
+    float: right;
 }
