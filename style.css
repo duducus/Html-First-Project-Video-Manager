@@ -1,7 +1,7 @@
 #logo{
     width: 75px;
-    length: 150px; 
-    
+    length: 150px;
+
 }
 
 
@@ -17,7 +17,7 @@
     length: 200px;
     position: fixed;
     right: 100px;
-    
+
 }
 
 
@@ -32,5 +32,18 @@
     length: 750px;
     position: fixed;
     left: 700px ;
-    
+
+}
+
+#logo13{
+    width: 50px;
+    length: 50px;
+
+}
+
+.search-bar{
+    length: 750px;
+    position: fixed;
+    left: 700px ;
+
 }
